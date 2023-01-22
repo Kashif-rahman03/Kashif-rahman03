@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kashif-rahman
+- 👋 Hi, I’m Kashif Rahman
 - 👀 I’m interested in Coding and programming and developing new thing which can make peoples live better .
 - 🌱 I’m currently learning Data structure and algorithm and a little about Web development ...
 
