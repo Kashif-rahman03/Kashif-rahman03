@@ -8,11 +8,12 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ### 🔥 &nbsp; My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Kashif-rahman03&theme=dark&background=000000)](https://git.io/streak-stats)<br>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Kashif-rahman03&theme=dark&background=000000)]<br>
 
 ![My stats](https://github-readme-stats.vercel.app/api?username=Kashif-rahman03&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kashif-rahman03&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kashif-rahman03&layout=compact&theme=vision-friendly-dark)]
+
 
 
 
